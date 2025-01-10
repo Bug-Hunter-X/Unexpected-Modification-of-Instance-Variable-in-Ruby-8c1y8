@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon Ruby bug related to the unexpected modification of instance variables within methods. The bug is subtle and can lead to unexpected behavior in applications. The solution provides a clearer and more predictable way of handling instance variables.
